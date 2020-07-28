@@ -1,0 +1,2 @@
+C:\Users\fh110\OneDrive\문서\Visual Studio 2015\Projects\backpropagation\bin\Debug\backpropagation.exe.config
+C:\Users\fh110\Desktop\backpropagation\bin\Debug\backpropagation.exe.config
