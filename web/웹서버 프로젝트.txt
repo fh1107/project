@@ -1,0 +1,13 @@
+SELECT * FROM badge WHERE stud_id='fh1108'
+
+
+INSERT INTO badge (stud_id,stud_passwd,stdu_name,stud_email,stud_gender) VALUES('rich','5435','karl','kr@abc.com','male');
+
+학기말 프로젝트 
+자바 , sql ,  HTML 사용
+응용 만들기
+꽃사진 
+ex)개나리 치면 개나리가 나오게 만들것
+개나리 입력 수정 삭제 조회 
+관심있는것으로 DB구축
+기말 전까지
